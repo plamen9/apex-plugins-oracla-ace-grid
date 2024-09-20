@@ -1,0 +1,51 @@
+[region-id="ace_region"] {
+   display: flex;
+   justify-content: flex-start;
+}
+
+.main-container {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   width: 90%;
+   max-width: 1200px;
+}
+.header {
+   flex: 0 0 auto;
+   margin-right: 10px;
+}
+.header img {
+   width: auto;
+   height: auto;
+   max-width: 215px;
+}
+.grid-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+   gap: 10px;
+   flex: 1 1 auto;
+}
+.grid-item {
+   position: relative;
+   overflow: hidden;
+   aspect-ratio: 1;
+}
+
+.grid-item.grid-item-header {   
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    width: fit-content;
+    align-content: center;
+}
+
+.grid-item img {
+   width: 100%;
+   height: auto;
+   display: block;
+}
+
+.grid-item a {
+   display: block;
+}
