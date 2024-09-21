@@ -42,7 +42,7 @@ select filename,
 
 ## Additional use cases
 You can filter the query using any item on your APEX page. For example filtering the grid by ACE levels:
-```
+```sql
 select filename,
        mimetype,
        null header_image, null header_text,
