@@ -20,7 +20,7 @@
         "url": "https://github.com/plamen9/apex-plugins-oracla-ace-grid.git"
     },
     "oracle": {
-        "versions": ["24.1.0"],
+        "versions": ["19.0.0.0"],
         "apex": {
             "versions": ["24.1.0"],
             "plugin": {
