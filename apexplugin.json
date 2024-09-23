@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "Oracle ACE Grid Template Component for APEX allows you to create grid of images, with a main one at the top left. You can set the image size, border radius and links of the images. It accepts BLOBs, image URLS, REST services as source.",
     "keywords": ["template", "component", "plugin", "Oracle", "ACE", "grid"],
-    "homepage": "https://github.com/plamen9apex-plugins-oracla-ace-grid",
+    "homepage": "https://github.com/plamen9/apex-plugins-oracla-ace-grid",
     "bugs": {
         "url": "https://github.com/plamen9/apex-plugins-oracla-ace-grid/issues",
         "email": "pmushkov@yahoo.com"
