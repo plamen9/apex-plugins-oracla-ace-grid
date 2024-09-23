@@ -27,7 +27,7 @@
                 "internalName": "REGION.APEXAPPLAB.ACE_GRID",
                 "type": "template component",
                 "demo": "https://apex.oracle.com/pls/apex/r/gamma_dev/oracle-ace",
-                "previewImage": "https://raw.githubusercontent.com/plamen9/apex-plugins-oracla-ace-grid/main/demo_1.jpg"
+                "previewImage": "https://github.com/plamen9/apex-plugins-oracla-ace-grid/blob/main/demo_1.jpg?raw=true"
             }
         }
     }
